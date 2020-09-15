@@ -8,3 +8,5 @@ Basic features:
 * Undo moves using 'u'
 * Game board state held in one dimension array
 * Less then 300 lines of code including comments
+
+![screenshot](screenshot.png)
